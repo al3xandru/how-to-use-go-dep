@@ -14,4 +14,4 @@ You'll be running `dep ensure` in 4 scenarios:
 2.  updating a dependency
 3.  updating after adding or removing imports for a package
 4.  updating after editing the rules in
-    [`Gopkg.toml`](01-initialize-dep.md#gopkgtoml)`
+    [`Gopkg.toml`](01-initialize-dep.md#gopkgtoml)
