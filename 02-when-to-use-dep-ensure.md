@@ -1,4 +1,5 @@
 # Using dep ensure
+
 The command that you'll be using most frequently is `dep ensure`.  The
 [official
 documentation](https://golang.github.io/dep/docs/ensure-mechanics.html) explains in detail how it works: 
